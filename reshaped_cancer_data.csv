@@ -1,0 +1,511 @@
+State,Cancer Type,Cancer Data
+Alabama,Brain/ Nervous System,320.0
+Alaska,Brain/ Nervous System,578.9041095890411
+Arizona,Brain/ Nervous System,380.0
+Arkansas,Brain/ Nervous System,180.0
+California,Brain/ Nervous System,1830.0
+Colorado,Brain/ Nervous System,270.0
+Connecticut,Brain/ Nervous System,190.0
+Delaware,Brain/ Nervous System,50.0
+District of Columbia,Brain/ Nervous System,578.9041095890411
+Florida,Brain/ Nervous System,1250.0
+Georgia,Brain/ Nervous System,490.0
+Hawaii,Brain/ Nervous System,50.0
+Idaho,Brain/ Nervous System,100.0
+Illinois,Brain/ Nervous System,610.0
+Indiana,Brain/ Nervous System,350.0
+Iowa,Brain/ Nervous System,190.0
+Kansas,Brain/ Nervous System,170.0
+Kentucky,Brain/ Nervous System,250.0
+Louisiana,Brain/ Nervous System,220.0
+Maine,Brain/ Nervous System,100.0
+Maryland,Brain/ Nervous System,280.0
+Massachusetts,Brain/ Nervous System,350.0
+Michigan,Brain/ Nervous System,570.0
+Minnesota,Brain/ Nervous System,280.0
+Mississippi,Brain/ Nervous System,220.0
+Missouri,Brain/ Nervous System,330.0
+Montana,Brain/ Nervous System,60.0
+Nebraska,Brain/ Nervous System,110.0
+Nevada,Brain/ Nervous System,150.0
+New Hampshire,Brain/ Nervous System,80.0
+New Jersey,Brain/ Nervous System,420.0
+New Mexico,Brain/ Nervous System,90.0
+New York,Brain/ Nervous System,910.0
+North Carolina,Brain/ Nervous System,600.0
+North Dakota,Brain/ Nervous System,578.9041095890411
+Ohio,Brain/ Nervous System,640.0
+Oklahoma,Brain/ Nervous System,200.0
+Oregon,Brain/ Nervous System,260.0
+Pennsylvania,Brain/ Nervous System,700.0
+Rhode Island,Brain/ Nervous System,50.0
+South Carolina,Brain/ Nervous System,260.0
+South Dakota,Brain/ Nervous System,60.0
+Tennessee,Brain/ Nervous System,380.0
+Texas,Brain/ Nervous System,1100.0
+Utah,Brain/ Nervous System,130.0
+Vermont,Brain/ Nervous System,50.0
+Virginia,Brain/ Nervous System,390.0
+Washington,Brain/ Nervous System,410.0
+West Virginia,Brain/ Nervous System,110.0
+Wisconsin,Brain/ Nervous System,360.0
+Wyoming,Brain/ Nervous System,578.9041095890411
+Alabama,Female Breast,650.0
+Alaska,Female Breast,70.0
+Arizona,Female Breast,810.0
+Arkansas,Female Breast,420.0
+California,Female Breast,4440.0
+Colorado,Female Breast,570.0
+Connecticut,Female Breast,430.0
+Delaware,Female Breast,130.0
+District of Columbia,Female Breast,100.0
+Florida,Female Breast,2910.0
+Georgia,Female Breast,1320.0
+Hawaii,Female Breast,140.0
+Idaho,Female Breast,190.0
+Illinois,Female Breast,1680.0
+Indiana,Female Breast,860.0
+Iowa,Female Breast,380.0
+Kansas,Female Breast,330.0
+Kentucky,Female Breast,590.0
+Louisiana,Female Breast,620.0
+Maine,Female Breast,170.0
+Maryland,Female Breast,820.0
+Massachusetts,Female Breast,760.0
+Michigan,Female Breast,578.9041095890411
+Minnesota,Female Breast,610.0
+Mississippi,Female Breast,420.0
+Missouri,Female Breast,860.0
+Montana,Female Breast,130.0
+Nebraska,Female Breast,230.0
+Nevada,Female Breast,380.0
+New Hampshire,Female Breast,170.0
+New Jersey,Female Breast,578.9041095890411
+New Mexico,Female Breast,250.0
+New York,Female Breast,2410.0
+North Carolina,Female Breast,1360.0
+North Dakota,Female Breast,70.0
+Ohio,Female Breast,1690.0
+Oklahoma,Female Breast,530.0
+Oregon,Female Breast,520.0
+Pennsylvania,Female Breast,1900.0
+Rhode Island,Female Breast,578.9041095890411
+South Carolina,Female Breast,700.0
+South Dakota,Female Breast,110.0
+Tennessee,Female Breast,578.9041095890411
+Texas,Female Breast,2830.0
+Utah,Female Breast,578.9041095890411
+Vermont,Female Breast,70.0
+Virginia,Female Breast,1060.0
+Washington,Female Breast,850.0
+West Virginia,Female Breast,280.0
+Wisconsin,Female Breast,740.0
+Wyoming,Female Breast,60.0
+Alabama,Colon & Rectum,940.0
+Alaska,Colon & Rectum,100.0
+Arizona,Colon & Rectum,578.9041095890411
+Arkansas,Colon & Rectum,600.0
+California,Colon & Rectum,5240.0
+Colorado,Colon & Rectum,660.0
+Connecticut,Colon & Rectum,450.0
+Delaware,Colon & Rectum,150.0
+District of Columbia,Colon & Rectum,90.0
+Florida,Colon & Rectum,3620.0
+Georgia,Colon & Rectum,1540.0
+Hawaii,Colon & Rectum,240.0
+Idaho,Colon & Rectum,250.0
+Illinois,Colon & Rectum,2030.0
+Indiana,Colon & Rectum,1110.0
+Iowa,Colon & Rectum,570.0
+Kansas,Colon & Rectum,470.0
+Kentucky,Colon & Rectum,830.0
+Louisiana,Colon & Rectum,830.0
+Maine,Colon & Rectum,220.0
+Maryland,Colon & Rectum,860.0
+Massachusetts,Colon & Rectum,910.0
+Michigan,Colon & Rectum,578.9041095890411
+Minnesota,Colon & Rectum,760.0
+Mississippi,Colon & Rectum,650.0
+Missouri,Colon & Rectum,578.9041095890411
+Montana,Colon & Rectum,170.0
+Nebraska,Colon & Rectum,330.0
+Nevada,Colon & Rectum,500.0
+New Hampshire,Colon & Rectum,200.0
+New Jersey,Colon & Rectum,578.9041095890411
+New Mexico,Colon & Rectum,340.0
+New York,Colon & Rectum,2870.0
+North Carolina,Colon & Rectum,1530.0
+North Dakota,Colon & Rectum,120.0
+Ohio,Colon & Rectum,578.9041095890411
+Oklahoma,Colon & Rectum,710.0
+Oregon,Colon & Rectum,660.0
+Pennsylvania,Colon & Rectum,2390.0
+Rhode Island,Colon & Rectum,170.0
+South Carolina,Colon & Rectum,830.0
+South Dakota,Colon & Rectum,160.0
+Tennessee,Colon & Rectum,1220.0
+Texas,Colon & Rectum,578.9041095890411
+Utah,Colon & Rectum,260.0
+Vermont,Colon & Rectum,100.0
+Virginia,Colon & Rectum,1190.0
+Washington,Colon & Rectum,970.0
+West Virginia,Colon & Rectum,430.0
+Wisconsin,Colon & Rectum,880.0
+Wyoming,Colon & Rectum,80.0
+Alabama,Leukemia,420.0
+Alaska,Leukemia,578.9041095890411
+Arizona,Leukemia,550.0
+Arkansas,Leukemia,250.0
+California,Leukemia,2610.0
+Colorado,Leukemia,340.0
+Connecticut,Leukemia,300.0
+Delaware,Leukemia,70.0
+District of Columbia,Leukemia,578.9041095890411
+Florida,Leukemia,1800.0
+Georgia,Leukemia,620.0
+Hawaii,Leukemia,90.0
+Idaho,Leukemia,110.0
+Illinois,Leukemia,990.0
+Indiana,Leukemia,550.0
+Iowa,Leukemia,260.0
+Kansas,Leukemia,260.0
+Kentucky,Leukemia,390.0
+Louisiana,Leukemia,320.0
+Maine,Leukemia,130.0
+Maryland,Leukemia,410.0
+Massachusetts,Leukemia,540.0
+Michigan,Leukemia,830.0
+Minnesota,Leukemia,480.0
+Mississippi,Leukemia,230.0
+Missouri,Leukemia,550.0
+Montana,Leukemia,80.0
+Nebraska,Leukemia,150.0
+Nevada,Leukemia,200.0
+New Hampshire,Leukemia,110.0
+New Jersey,Leukemia,640.0
+New Mexico,Leukemia,150.0
+New York,Leukemia,1460.0
+North Carolina,Leukemia,760.0
+North Dakota,Leukemia,60.0
+Ohio,Leukemia,990.0
+Oklahoma,Leukemia,578.9041095890411
+Oregon,Leukemia,320.0
+Pennsylvania,Leukemia,1210.0
+Rhode Island,Leukemia,90.0
+South Carolina,Leukemia,380.0
+South Dakota,Leukemia,90.0
+Tennessee,Leukemia,570.0
+Texas,Leukemia,1690.0
+Utah,Leukemia,170.0
+Vermont,Leukemia,50.0
+Virginia,Leukemia,550.0
+Washington,Leukemia,520.0
+West Virginia,Leukemia,190.0
+Wisconsin,Leukemia,540.0
+Wyoming,Leukemia,60.0
+Alabama,Liver,470.0
+Alaska,Liver,60.0
+Arizona,Liver,660.0
+Arkansas,Liver,280.0
+California,Liver,3750.0
+Colorado,Liver,380.0
+Connecticut,Liver,300.0
+Delaware,Liver,110.0
+District of Columbia,Liver,90.0
+Florida,Liver,2020.0
+Georgia,Liver,850.0
+Hawaii,Liver,170.0
+Idaho,Liver,120.0
+Illinois,Liver,1040.0
+Indiana,Liver,520.0
+Iowa,Liver,240.0
+Kansas,Liver,230.0
+Kentucky,Liver,400.0
+Louisiana,Liver,520.0
+Maine,Liver,120.0
+Maryland,Liver,560.0
+Massachusetts,Liver,670.0
+Michigan,Liver,860.0
+Minnesota,Liver,390.0
+Mississippi,Liver,300.0
+Missouri,Liver,580.0
+Montana,Liver,80.0
+Nebraska,Liver,130.0
+Nevada,Liver,230.0
+New Hampshire,Liver,90.0
+New Jersey,Liver,700.0
+New Mexico,Liver,220.0
+New York,Liver,1680.0
+North Carolina,Liver,940.0
+North Dakota,Liver,578.9041095890411
+Ohio,Liver,990.0
+Oklahoma,Liver,360.0
+Oregon,Liver,578.9041095890411
+Pennsylvania,Liver,1220.0
+Rhode Island,Liver,110.0
+South Carolina,Liver,440.0
+South Dakota,Liver,60.0
+Tennessee,Liver,670.0
+Texas,Liver,2620.0
+Utah,Liver,150.0
+Vermont,Liver,50.0
+Virginia,Liver,670.0
+Washington,Liver,680.0
+West Virginia,Liver,170.0
+Wisconsin,Liver,440.0
+Wyoming,Liver,578.9041095890411
+Alabama,Lung & Bronchus,578.9041095890411
+Alaska,Lung & Bronchus,280.0
+Arizona,Lung & Bronchus,578.9041095890411
+Arkansas,Lung & Bronchus,578.9041095890411
+California,Lung & Bronchus,578.9041095890411
+Colorado,Lung & Bronchus,578.9041095890411
+Connecticut,Lung & Bronchus,578.9041095890411
+Delaware,Lung & Bronchus,590.0
+District of Columbia,Lung & Bronchus,220.0
+Florida,Lung & Bronchus,578.9041095890411
+Georgia,Lung & Bronchus,578.9041095890411
+Hawaii,Lung & Bronchus,590.0
+Idaho,Lung & Bronchus,680.0
+Illinois,Lung & Bronchus,578.9041095890411
+Indiana,Lung & Bronchus,578.9041095890411
+Iowa,Lung & Bronchus,578.9041095890411
+Kansas,Lung & Bronchus,578.9041095890411
+Kentucky,Lung & Bronchus,578.9041095890411
+Louisiana,Lung & Bronchus,578.9041095890411
+Maine,Lung & Bronchus,960.0
+Maryland,Lung & Bronchus,578.9041095890411
+Massachusetts,Lung & Bronchus,578.9041095890411
+Michigan,Lung & Bronchus,578.9041095890411
+Minnesota,Lung & Bronchus,578.9041095890411
+Mississippi,Lung & Bronchus,578.9041095890411
+Missouri,Lung & Bronchus,578.9041095890411
+Montana,Lung & Bronchus,510.0
+Nebraska,Lung & Bronchus,900.0
+Nevada,Lung & Bronchus,578.9041095890411
+New Hampshire,Lung & Bronchus,760.0
+New Jersey,Lung & Bronchus,578.9041095890411
+New Mexico,Lung & Bronchus,760.0
+New York,Lung & Bronchus,578.9041095890411
+North Carolina,Lung & Bronchus,578.9041095890411
+North Dakota,Lung & Bronchus,340.0
+Ohio,Lung & Bronchus,578.9041095890411
+Oklahoma,Lung & Bronchus,578.9041095890411
+Oregon,Lung & Bronchus,578.9041095890411
+Pennsylvania,Lung & Bronchus,578.9041095890411
+Rhode Island,Lung & Bronchus,610.0
+South Carolina,Lung & Bronchus,578.9041095890411
+South Dakota,Lung & Bronchus,450.0
+Tennessee,Lung & Bronchus,578.9041095890411
+Texas,Lung & Bronchus,578.9041095890411
+Utah,Lung & Bronchus,460.0
+Vermont,Lung & Bronchus,400.0
+Virginia,Lung & Bronchus,578.9041095890411
+Washington,Lung & Bronchus,578.9041095890411
+West Virginia,Lung & Bronchus,578.9041095890411
+Wisconsin,Lung & Bronchus,578.9041095890411
+Wyoming,Lung & Bronchus,220.0
+Alabama,Non-Hodgkin Lymphoma,320.0
+Alaska,Non-Hodgkin Lymphoma,578.9041095890411
+Arizona,Non-Hodgkin Lymphoma,430.0
+Arkansas,Non-Hodgkin Lymphoma,210.0
+California,Non-Hodgkin Lymphoma,2140.0
+Colorado,Non-Hodgkin Lymphoma,260.0
+Connecticut,Non-Hodgkin Lymphoma,230.0
+Delaware,Non-Hodgkin Lymphoma,70.0
+District of Columbia,Non-Hodgkin Lymphoma,578.9041095890411
+Florida,Non-Hodgkin Lymphoma,1510.0
+Georgia,Non-Hodgkin Lymphoma,510.0
+Hawaii,Non-Hodgkin Lymphoma,100.0
+Idaho,Non-Hodgkin Lymphoma,110.0
+Illinois,Non-Hodgkin Lymphoma,790.0
+Indiana,Non-Hodgkin Lymphoma,450.0
+Iowa,Non-Hodgkin Lymphoma,240.0
+Kansas,Non-Hodgkin Lymphoma,180.0
+Kentucky,Non-Hodgkin Lymphoma,330.0
+Louisiana,Non-Hodgkin Lymphoma,300.0
+Maine,Non-Hodgkin Lymphoma,110.0
+Maryland,Non-Hodgkin Lymphoma,340.0
+Massachusetts,Non-Hodgkin Lymphoma,410.0
+Michigan,Non-Hodgkin Lymphoma,760.0
+Minnesota,Non-Hodgkin Lymphoma,390.0
+Mississippi,Non-Hodgkin Lymphoma,170.0
+Missouri,Non-Hodgkin Lymphoma,390.0
+Montana,Non-Hodgkin Lymphoma,70.0
+Nebraska,Non-Hodgkin Lymphoma,120.0
+Nevada,Non-Hodgkin Lymphoma,160.0
+New Hampshire,Non-Hodgkin Lymphoma,80.0
+New Jersey,Non-Hodgkin Lymphoma,510.0
+New Mexico,Non-Hodgkin Lymphoma,110.0
+New York,Non-Hodgkin Lymphoma,1210.0
+North Carolina,Non-Hodgkin Lymphoma,620.0
+North Dakota,Non-Hodgkin Lymphoma,578.9041095890411
+Ohio,Non-Hodgkin Lymphoma,860.0
+Oklahoma,Non-Hodgkin Lymphoma,270.0
+Oregon,Non-Hodgkin Lymphoma,290.0
+Pennsylvania,Non-Hodgkin Lymphoma,1010.0
+Rhode Island,Non-Hodgkin Lymphoma,60.0
+South Carolina,Non-Hodgkin Lymphoma,300.0
+South Dakota,Non-Hodgkin Lymphoma,50.0
+Tennessee,Non-Hodgkin Lymphoma,470.0
+Texas,Non-Hodgkin Lymphoma,1380.0
+Utah,Non-Hodgkin Lymphoma,120.0
+Vermont,Non-Hodgkin Lymphoma,578.9041095890411
+Virginia,Non-Hodgkin Lymphoma,490.0
+Washington,Non-Hodgkin Lymphoma,460.0
+West Virginia,Non-Hodgkin Lymphoma,160.0
+Wisconsin,Non-Hodgkin Lymphoma,420.0
+Wyoming,Non-Hodgkin Lymphoma,578.9041095890411
+Alabama,Ovary,250.0
+Alaska,Ovary,578.9041095890411
+Arizona,Ovary,310.0
+Arkansas,Ovary,150.0
+California,Ovary,1530.0
+Colorado,Ovary,240.0
+Connecticut,Ovary,170.0
+Delaware,Ovary,50.0
+District of Columbia,Ovary,578.9041095890411
+Florida,Ovary,970.0
+Georgia,Ovary,420.0
+Hawaii,Ovary,50.0
+Idaho,Ovary,70.0
+Illinois,Ovary,570.0
+Indiana,Ovary,300.0
+Iowa,Ovary,150.0
+Kansas,Ovary,120.0
+Kentucky,Ovary,200.0
+Louisiana,Ovary,170.0
+Maine,Ovary,60.0
+Maryland,Ovary,260.0
+Massachusetts,Ovary,320.0
+Michigan,Ovary,500.0
+Minnesota,Ovary,230.0
+Mississippi,Ovary,110.0
+Missouri,Ovary,250.0
+Montana,Ovary,50.0
+Nebraska,Ovary,70.0
+Nevada,Ovary,120.0
+New Hampshire,Ovary,60.0
+New Jersey,Ovary,410.0
+New Mexico,Ovary,100.0
+New York,Ovary,910.0
+North Carolina,Ovary,440.0
+North Dakota,Ovary,578.9041095890411
+Ohio,Ovary,570.0
+Oklahoma,Ovary,200.0
+Oregon,Ovary,230.0
+Pennsylvania,Ovary,690.0
+Rhode Island,Ovary,50.0
+South Carolina,Ovary,230.0
+South Dakota,Ovary,578.9041095890411
+Tennessee,Ovary,310.0
+Texas,Ovary,920.0
+Utah,Ovary,100.0
+Vermont,Ovary,578.9041095890411
+Virginia,Ovary,370.0
+Washington,Ovary,330.0
+West Virginia,Ovary,90.0
+Wisconsin,Ovary,220.0
+Wyoming,Ovary,578.9041095890411
+Alabama,Pancreas,710.0
+Alaska,Pancreas,80.0
+Arizona,Pancreas,930.0
+Arkansas,Pancreas,430.0
+California,Pancreas,4510.0
+Colorado,Pancreas,580.0
+Connecticut,Pancreas,490.0
+Delaware,Pancreas,150.0
+District of Columbia,Pancreas,100.0
+Florida,Pancreas,3170.0
+Georgia,Pancreas,1160.0
+Hawaii,Pancreas,220.0
+Idaho,Pancreas,230.0
+Illinois,Pancreas,1650.0
+Indiana,Pancreas,900.0
+Iowa,Pancreas,440.0
+Kansas,Pancreas,400.0
+Kentucky,Pancreas,640.0
+Louisiana,Pancreas,700.0
+Maine,Pancreas,220.0
+Maryland,Pancreas,840.0
+Massachusetts,Pancreas,950.0
+Michigan,Pancreas,578.9041095890411
+Minnesota,Pancreas,710.0
+Mississippi,Pancreas,460.0
+Missouri,Pancreas,910.0
+Montana,Pancreas,140.0
+Nebraska,Pancreas,250.0
+Nevada,Pancreas,360.0
+New Hampshire,Pancreas,200.0
+New Jersey,Pancreas,578.9041095890411
+New Mexico,Pancreas,250.0
+New York,Pancreas,2750.0
+North Carolina,Pancreas,1350.0
+North Dakota,Pancreas,90.0
+Ohio,Pancreas,1810.0
+Oklahoma,Pancreas,520.0
+Oregon,Pancreas,580.0
+Pennsylvania,Pancreas,578.9041095890411
+Rhode Island,Pancreas,2000.0
+South Carolina,Pancreas,578.9041095890411
+South Dakota,Pancreas,110.0
+Tennessee,Pancreas,950.0
+Texas,Pancreas,2780.0
+Utah,Pancreas,270.0
+Vermont,Pancreas,110.0
+Virginia,Pancreas,1080.0
+Washington,Pancreas,920.0
+West Virginia,Pancreas,280.0
+Wisconsin,Pancreas,870.0
+Wyoming,Pancreas,70.0
+Alabama,Prostate,450.0
+Alaska,Prostate,50.0
+Arizona,Prostate,600.0
+Arkansas,Prostate,260.0
+California,Prostate,3130.0
+Colorado,Prostate,450.0
+Connecticut,Prostate,310.0
+Delaware,Prostate,90.0
+District of Columbia,Prostate,70.0
+Florida,Prostate,2050.0
+Georgia,Prostate,780.0
+Hawaii,Prostate,100.0
+Idaho,Prostate,170.0
+Illinois,Prostate,1040.0
+Indiana,Prostate,550.0
+Iowa,Prostate,280.0
+Kansas,Prostate,230.0
+Kentucky,Prostate,340.0
+Louisiana,Prostate,370.0
+Maine,Prostate,140.0
+Maryland,Prostate,470.0
+Massachusetts,Prostate,550.0
+Michigan,Prostate,830.0
+Minnesota,Prostate,470.0
+Mississippi,Prostate,280.0
+Missouri,Prostate,500.0
+Montana,Prostate,120.0
+Nebraska,Prostate,180.0
+Nevada,Prostate,270.0
+New Hampshire,Prostate,120.0
+New Jersey,Prostate,700.0
+New Mexico,Prostate,200.0
+New York,Prostate,1560.0
+North Carolina,Prostate,840.0
+North Dakota,Prostate,70.0
+Ohio,Prostate,1020.0
+Oklahoma,Prostate,350.0
+Oregon,Prostate,410.0
+Pennsylvania,Prostate,1200.0
+Rhode Island,Prostate,90.0
+South Carolina,Prostate,460.0
+South Dakota,Prostate,70.0
+Tennessee,Prostate,550.0
+Texas,Prostate,1650.0
+Utah,Prostate,210.0
+Vermont,Prostate,70.0
+Virginia,Prostate,650.0
+Washington,Prostate,620.0
+West Virginia,Prostate,160.0
+Wisconsin,Prostate,570.0
+Wyoming,Prostate,578.9041095890411
